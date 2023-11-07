@@ -32,3 +32,4 @@ commentRouter.route('/')
         res.end('Added the comment with id: ' + id);
         
     });
+})
